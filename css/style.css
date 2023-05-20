@@ -1,0 +1,90 @@
+/*Fuentes de texto*/
+
+
+:root{
+    --color-primario: #6610f2;
+    --color-footer: #f8f9fa;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.active{
+    color: var(--color-primario);
+
+}
+
+.nav{
+    align-items: center;
+    outline: solid var(--color-primario);
+}
+
+.nav-link{
+    text-decoration: none;
+}
+
+.nav-link i{
+ padding-right: 10px;
+
+}
+
+footer{
+    margin-top: 150px;
+    background-color: var(--color-footer);
+    padding: 20px;
+}
+footer h5{
+    color: var(--color-primario)
+}
+footer ul{
+    list-style: none;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+
+
+/* -----------------------------Carrusel ------------------------------*/
+.carousel-inner{
+    height: 80vh;
+}
+
+#carouselExampleDark{
+    height: 80vh;
+}
+.carousel-caption{
+    height: 50vh ;
+}
+.carousel-caption h5{
+    font-size: 3rem;
+    display: block;
+    align-items: center;
+    color: #f8f9fa;
+}
+
+/* ----------------------------- Pokes on cards ------------------------------*/
+
+.box-card{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+.box-card p{
+    font-size: 1.2em;
+}
+.popular-pokes{
+    padding: 20px;
+    margin: 0;
+
+}
+
+.box-text-main{
+    padding: 50px;  
+}
+
+.box-text-main h2, h3{
+    font-size: 2.5em;
+    color: var(--color-primario);
+}
