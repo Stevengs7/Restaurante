@@ -44,25 +44,6 @@ footer ul{
 }
 
 
-
-/* -----------------------------Carrusel ------------------------------*/
-.carousel-inner{
-    height: 80vh;
-}
-
-#carouselExampleDark{
-    height: 80vh;
-}
-.carousel-caption{
-    height: 50vh ;
-}
-.carousel-caption h5{
-    font-size: 3rem;
-    display: block;
-    align-items: center;
-    color: #f8f9fa;
-}
-
 /* ----------------------------- Pokes on cards ------------------------------*/
 
 .box-card{
@@ -87,4 +68,84 @@ footer ul{
 .box-text-main h2, h3{
     font-size: 2.5em;
     color: var(--color-primario);
+}
+
+.btn-primary:hover {
+    background-color: #3a0097;
+}
+
+.btn-secondary:hover {
+    background-color: #00b098;
+}
+
+/* ----------------------------- Cabecera login  ------------------------------*/
+
+.box-img-login{
+    height: 80vh;
+    background:
+    linear-gradient(rgba(5,7,12, 0.60), rgba(5, 7, 12, 0.60)),
+    url(../img/login_1.jpeg);
+    background-size: cover;
+}
+
+
+.informacion{
+    margin-top: 150px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 3.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.datos{
+    background-color: #fff;
+    border-radius: 20px;
+    font-size: 1em;
+    padding: 10px;
+}
+
+.my-col{  
+    padding: 20px;
+}
+
+.box-userpass input{
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    border: none;
+    outline: solid lightgray;
+}
+
+.btn-primary{
+    background-color: var(--color-primario);
+    width: 100%;
+    border: none;
+    padding: 5px;
+    border-radius: 2px;
+    color: #fff;
+}
+
+.login{
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.carta-login{
+    background-color: #41ead4;
+}
+
+/* ----------------------------- Media Querys ------------------------------*/
+
+
+@media screen and (max-width: 576px){
+    
+    .cabecera{
+        display: none;  
+    }
 }
