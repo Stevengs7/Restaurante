@@ -20,12 +20,14 @@ Requeriamos de la reproducción de una carta de un restaurante a elección en y 
 
 Pagina principal</br>
 <img src="./img/readme/landing.png">
+Carta </br>
 <img src="./img/readme/carta.png">
+Productos destacados</br>
 <img src="./img/readme/productos.png">
 
-## Deploy consola
+## Deploy Restaurante
 
-<a href="" target="_blank"/>Ir a la consola</a>
+<a href="https://stevengs7.github.io/Restaurante/" target="_blank"/>Ir a la consola</a>
 
 ## Stack
 
