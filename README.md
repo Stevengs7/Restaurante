@@ -27,7 +27,7 @@ Productos destacados</br>
 
 ## Deploy Restaurante
 
-<a href="https://stevengs7.github.io/Restaurante/" target="_blank"/>Ir a la consola</a>
+<a href="https://stevengs7.github.io/Restaurante/" target="_blank"/>Ir a la pagina web del restaurante</a>
 
 ## Stack
 
