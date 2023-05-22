@@ -34,6 +34,8 @@ Productos destacados</br>
 <div align="center">
     <img src= "img/html-5.png"/>
     <img src= "img/css-3.png"/>
+    <img src= "![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)"/>
+    
  </div>
 
 ## Futuras funcionalidades
