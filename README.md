@@ -32,10 +32,15 @@ Productos destacados</br>
 ## Stack
 
 <div align="center">
-    <img src= "img/html-5.png"/>
-    <img src= "img/css-3.png"/>
-   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src= "![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)"/></a>
-    
+<a href="https://developer.mozilla.org/es/docs/Glossary/HTML5">
+    <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS">
+    <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">
+    <img src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</a>
  </div>
 
 ## Futuras funcionalidades
