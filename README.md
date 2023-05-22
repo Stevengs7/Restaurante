@@ -34,7 +34,7 @@ Productos destacados</br>
 <div align="center">
     <img src= "img/html-5.png"/>
     <img src= "img/css-3.png"/>
-   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src= "(https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)"/></a>
+   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src= "![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)"/></a>
     
  </div>
 
