@@ -194,6 +194,7 @@ footer ul{
 }
 .cabecera{
     padding-left: 100px;
+    display: none;
 }
 
 .elige-tu-base{
@@ -213,10 +214,10 @@ footer ul{
 /* ----------------------------- Media Querys ------------------------------*/
 
 
-@media screen and (max-width: 576px){
+@media screen and (min-width: 576px){
     
     .cabecera{
-        display: none;  
+        display: block;  
     }
 
     .nuestra-historia{
